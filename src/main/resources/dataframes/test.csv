@@ -1,0 +1,2 @@
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Fare
+2.0,1.0,1.0,0.0,38.0,1.0,0.0,71.2833
